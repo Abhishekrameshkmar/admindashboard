@@ -1,0 +1,56 @@
+
+AdminDashboard
+
+Dashboard-- Angular project workflow
+1.ng new admindashboard{project name}
+
+2.run project :ng serve or ng s (in project name)
+
+3.install /import/add third party libraries to complete project 
+
+            install angular meterial : ng add @angular /material
+            CUSTOME THEAM
+            TYPOLOGY
+            animations
+
+4.Delete all content from app component.html
+
+to use any component from meterial 
+copy the api for particular component and paste it on AppModule.ts
+5.chek third party libraries working in project or not 
+          if not import prebuild theme to your project style.css file
+6.1.header
+  2.footer
+  3.aside -sidebar 
+  4.Dashboard-inside 
+  4.1.card
+  4.2area-chart
+  4.3table
+  pichart
+
+
+  7.design new component
+
+  employee
+  gallery
+  contacts
+  leads
+
+  8.set up path for components and update
+  -Dashboard
+  -employee
+  -gallery
+  -contacts
+  -leads
+
+
+
+
+
+  href =""----its reloadde entire page inthe web page
+  routerliink=-----its read only the content in that page
+
+
+  9. install highchaart using npm install [highchaart ]
+
+
